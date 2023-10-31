@@ -1,0 +1,6 @@
+I am rishit kundariya. This is my development file. 
+
+Don't change any thing from this.
+
+
+This is the basic set of the project.
